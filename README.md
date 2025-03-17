@@ -10,3 +10,12 @@ Additionally, it enables users to book appointments with psychologists and menta
 Appointment Booking : Schedule sessions with licensed psychologists, therapists, and mental health experts seamlessly.</br>
 Testimonial Section : Read inspiring success stories and experiences shared by individuals who have benefited from mental health services.</br>
 Specialized Mental Health Services : Explore tailored support for anxiety, stress, relationship counseling, and other specific needs.</br></h2>
+<h2>Tech Stack Used 💻</h2></br>
+<h2>HTML: The backbone of the platform, structuring the content and layout.
+CSS: For styling and enhancing the visual appeal of the platform.
+SCSS: Simplifies and organizes the styling process with advanced features like nesting and variables.
+JavaScript: Adds interactivity and dynamic functionality to the platform.
+Bootstrap: A responsive framework to ensure consistent and mobile-friendly designs.</h2>
+<h1>Getting Started 🚀</h1></br>
+<h3>Prerequisites</h3></br>
+
