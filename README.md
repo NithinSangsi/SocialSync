@@ -55,7 +55,7 @@ Follow these steps to set up and run the **SocialSync** project on your local ma
 **Clone the Repository**
 
 ```bash
-https://github.com/ThunderShadows/SocialSync.git
+https://github.com/NithinSangsi/SocialSync.git
 cd SocialSync
 ```
 
@@ -73,6 +73,6 @@ cd SocialSync
 
 Thanks to all the amazing people who have contributed to this project! 💖
 
-[![Contributors](https://contrib.rocks/image?repo=ThunderShadows/SocialSync)](https://github.com/ThunderShadows/SocialSync/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=NithinSangsi/SocialSync)](https://github.com/NithinSangsi/SocialSync/graphs/contributors)
 
 ---
